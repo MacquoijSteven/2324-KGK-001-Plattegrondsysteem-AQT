@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Define the paths
-PROJECT_DIR="/data/sites/web/wesleyvanlaerbe/subsites/aquaterra.wesleyvanlaer.be/"
-BACKUP_DIR="/data/sites/web/wesleyvanlaerbe/backup-aquaterra/"
-INCOMING_DIR="/data/sites/web/wesleyvanlaerbe/incoming-aquaterra/"
+PROJECT_DIR="/data/sites/web/kogekabe/subsites/aquaterra.kogeka.be/"
+BACKUP_DIR="/data/sites/web/kogekabe/backup-aquaterra/"
+INCOMING_DIR="/data/sites/web/kogekabe/incoming-aquaterra/"
 
 # Define the command to download the latest version
 DOWNLOAD_CMD="git clone https://github.com/Thomas-More-Digital-Innovation/2324-KGK-001-Plattegrondsysteem-AQT.git"
